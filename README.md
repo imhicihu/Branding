@@ -6,6 +6,9 @@
 
 * Internal branding gathered to apply to multiple digital strategies: mobile apps, webinars, social media etc. with a focus in accessibility.
 * This repo is a living document that will grow and adapt over time
+![graphics.jpg](https://bitbucket.org/repo/oLkML7j/images/424159149-branding-imhicihu-digital-black-white.png)
+![graphics.jpg](https://bitbucket.org/repo/oLkML7j/images/3665540431-branding-imhicihu-digital-monochrome.png)
+![graphics.jpg](https://bitbucket.org/repo/oLkML7j/images/1507728349-branding-imhicihu-digital.png)
 
 ### What is this repository for? ###
 
