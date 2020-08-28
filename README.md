@@ -4,29 +4,27 @@
 
 # RATIONALE #
 
-* 
+* Internal branding gathered to apply to multiple digital strategies: mobile apps, webinars, social media etc. with a focus in accessibility.
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - Branding digital assets for digital actions
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - In the making
 * Configuration
-    - 
+    - In the making
 * Dependencies
-    - 
+    - In the making
 * Database configuration
-    - 
-* How to run tests
-    - 
+    - In the making
 * Deployment instructions
-    - 
+    - In the making
 
 ### Source ###
 
@@ -39,15 +37,6 @@
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/branding/commits/) section for the current status
-
-### Contribution guidelines ###
-
-* Writing tests
-    - 
-* Code review
-    - 
-* Other guidelines
-    - 
 
 ### Who do I talk to? ###
 
