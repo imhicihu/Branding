@@ -10,15 +10,17 @@
         - _Hosting_: Consorcio Saavedra 15
         - _Bandwidth_: Consorcio Saavedra 15
 * Software
-     - 
-     - 
-     - 
-     - 
+     - [Atom](http://atom.io/): code editor
+     - [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
+          - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+     - [Pandoc](https://pandoc.org/installing.html): universal file text converter
+     - [Inkscape](https://inkscape.org/release/): vector image editor
 * Online tools
      - [libs.garden](https://libs.garden/): technical libraries searcher
      - [Coblis — Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
      - [jsColorblindSimulator]()
-     - 
+     - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+     - [Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/)
      
 * Documentation
      - 
