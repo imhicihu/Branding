@@ -18,7 +18,8 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check [cromatic_aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
+    - Check [logotype accesibility.md](https://bitbucket.org/imhicihu/branding/src/master/logotype_accesibility.md)
+    - Check [cromatic aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
 * Configuration
     - In the making
 * Dependencies
