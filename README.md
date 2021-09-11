@@ -18,7 +18,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - In the making
+    - Check [cromatic_aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
 * Configuration
     - In the making
 * Dependencies
