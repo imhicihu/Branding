@@ -1,13 +1,21 @@
-* Original
+# Original
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/3/imhicihu/branding/1631326500.85/3/logotipo.jpg)
-* B/W
+### -----------------------------------------------
+# B/W
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/3/imhicihu/branding/1631325625.04/3/logo_black.jpg)
-* Inverted
+### -----------------------------------------------
+
+# Inverted
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/3/imhicihu/branding/1631325625.29/3/logo_inverse.jpg)
--------------------------------
-* Original
+### -----------------------------------------------
+
+# Original
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/3/imhicihu/branding/1631325430.52/3/logotipo.jpg)
-* B/W
+### -----------------------------------------------
+
+# B/W
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/3/imhicihu/branding/1631325328.59/3/black.jpg)
-* Inverted
+### -----------------------------------------------
+
+# Inverted
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/3/imhicihu/branding/1631325328.73/3/inverse.jpg)
