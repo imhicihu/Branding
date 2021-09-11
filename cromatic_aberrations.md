@@ -1,5 +1,5 @@
 * Original state
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631318104.62/2/3342368718-logo-conicet.jpeg)
+![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631323077.07/2/Untitled.jpg)
 
 * Protanomaly
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.0/2/Protanomaly.jpg)
