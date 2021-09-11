@@ -14,7 +14,7 @@
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.09/2/Protanopia.jpg)
 
 * Deuteranopia
-![graphics.jpg]()
+![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631321979.33/2/Deuteranopia.jpg)
 
 * Tritanopia
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.28/2/Tritanopia.jpg)
