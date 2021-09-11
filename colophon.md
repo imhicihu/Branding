@@ -11,6 +11,7 @@
       - _Bandwidth_: Consorcio Saavedra 15
 * Software
      - [Atom](http://atom.io/): code editor
+     - [Blender](https://blender.org): 3D editor
      - [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
           - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
      - [Pandoc](https://pandoc.org/installing.html): universal file text converter
