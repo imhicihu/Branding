@@ -12,22 +12,16 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - Branding digital assets for digital actions
+    - Branding digital assets for visual identity
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
+    - Check [colophon.md](https://bitbucket.org/imhicihu/branding/src/master/colophon.md)
+* Deployment instructions
     - Check [logotype accesibility.md](https://bitbucket.org/imhicihu/branding/src/master/logotype_accesibility.md)
     - Check [cromatic aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
-* Configuration
-    - In the making
-* Dependencies
-    - In the making
-* Database configuration
-    - In the making
-* Deployment instructions
-    - In the making
 
 ### Source ###
 
