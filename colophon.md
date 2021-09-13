@@ -12,6 +12,7 @@
 * Software
      - [Atom](http://atom.io/): code editor
      - [Blender](https://blender.org): 3D editor
+     - [Blender cycles](https://www.cycles-renderer.org/): Blender rendering software
      - [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
           - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
      - [Pandoc](https://pandoc.org/installing.html): universal file text converter
