@@ -19,11 +19,10 @@
 
 * Summary of set up
     - Check [colophon.md](https://bitbucket.org/imhicihu/branding/src/master/colophon.md)
-    ![graphics.jpg](https://bitbucket.org/repo/oLkML7j/images/1902034420-2.jpg)
 * Deployment instructions
     - Check [logotype accesibility.md](https://bitbucket.org/imhicihu/branding/src/master/logotype_accesibility.md)
     - Check [cromatic aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
-    ![graphics.jpg](https://bitbucket.org/repo/oLkML7j/images/2649526850-3.jpg)
+    ![graphics.jpg](https://i.ibb.co/SX5vF9h/ezgif-com-gif-maker.gif)
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/branding/src)
