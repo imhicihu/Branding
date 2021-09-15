@@ -24,6 +24,7 @@
 * Deployment instructions
     - Check [logotype accesibility.md](https://bitbucket.org/imhicihu/branding/src/master/logotype_accesibility.md)
     - Check [cromatic aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
+    - [Preliminary logos](https://bitbucket.org/imhicihu/branding/issues/5/alternative-logos)
 
 ### Source ###
 
