@@ -13,6 +13,8 @@
 
 * Quick summary
     - Branding digital assets for visual identity
+      ![graphics.jpg](https://i.ibb.co/SX5vF9h/ezgif-com-gif-maker.gif)
+
 * Version 1.01
 
 ### How do I get set up? ###
@@ -22,7 +24,7 @@
 * Deployment instructions
     - Check [logotype accesibility.md](https://bitbucket.org/imhicihu/branding/src/master/logotype_accesibility.md)
     - Check [cromatic aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
-    ![graphics.jpg](https://i.ibb.co/SX5vF9h/ezgif-com-gif-maker.gif)
+
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/branding/src)
