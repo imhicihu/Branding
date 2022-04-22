@@ -26,6 +26,7 @@
      - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
      - [Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/)
      - [StyleGuide](https://hugeinc.github.io/styleguide/index.html)
+     - [Screenshoot guru](https://screenshot.guru/)
      
 * Documentation
      - [Evernote](https://evernote.com)
