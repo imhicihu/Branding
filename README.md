@@ -20,31 +20,25 @@
     - Check [colophon.md](colophon.md)
 * Deployment instructions
     - Check [logotype accesibility.md](logotype_accesibility.md)
-    - Check [cromatic aberrations.md](cromatic_aberrations.md)
-    - [Preliminary logos](preliminary_logos.md)
+    - Check [chromatic aberrations.md](cromatic_aberrations.md)
+    - [Preliminary logos](Preliminary_logos.md)
 
 ### Issues ###
-
 * Check them on [here](https://bitbucket.org/imhicihu/branding/issues)
 
 ### Changelog ###
-
 * Please check the [Commits](https://github.com/imhicihu/Branding/commits/master) section for the current status
 
 ### Who do I talk to? ###
-
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 
 ### Code of Conduct
-
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/branding/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 
 ### Legal ###
-
 * All trademarks are the property of their respective owners.
 
 ### License ###
-
 * The content of this project itself is licensed under the MIT license.
