@@ -1,34 +1,27 @@
-# Original
+## Original
 
 ![](images/Untitled.jpg)
 
-# Protanomaly
+## Protanomaly
 ![](images/Protanomaly.jpg)
 
-# Deuteranomaly
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315354.91/2/Deuteranomaly.jpg)
-#
+## Deuteranomaly
+![](images/Deuteranomaly.jpg)
 
-# Tritanomaly
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.18/2/Tritanomaly.jpg)
-#
+## Tritanomaly
+![](images/Tritanomaly.jpg)
 
-# Protanopia
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.09/2/Protanopia.jpg)
-#
+## Protanopia
+![](images/Protanopia.jpg)
 
-# Deuteranopia
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631321979.33/2/Deuteranopia.jpg)
-#
+## Deuteranopia
+![](images/Deuteranopia.jpg)
 
-# Tritanopia
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.28/2/Tritanopia.jpg)
-#
+## Tritanopia
+![](images/Tritanopia.jpg)
 
-# Achromatopsia
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315354.63/2/Achromatopsia.jpg)
-#
+## Achromatopsia
+![](images/Achromatopsia.jpg)
 
-# Blue Cone Monochromacy
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315354.81/2/Blue_Cone_Monochromacy.jpg)
-#
+## Blue Cone Monochromacy
+![](images/Blue_Cone_Monochromacy.jpg)
