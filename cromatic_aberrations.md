@@ -1,5 +1,4 @@
 ## Original
-
 ![](images/Untitled.jpg)
 
 ## Protanomaly
