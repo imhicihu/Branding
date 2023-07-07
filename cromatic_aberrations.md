@@ -1,10 +1,9 @@
 # Original
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631323077.07/2/Untitled.jpg)
-#
+
+![](images/Untitled.jpg)
 
 # Protanomaly
-![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315355.0/2/Protanomaly.jpg)
-#
+![](images/Protanomaly.jpg)
 
 # Deuteranomaly
 ![graphics.jpg](https://bitbucket.org/imhicihu/branding/issues/attachments/2/imhicihu/branding/1631315354.91/2/Deuteranomaly.jpg)
