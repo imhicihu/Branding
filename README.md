@@ -21,7 +21,7 @@
 * Deployment instructions
     - Check [logotype accesibility.md](logotype_accesibility.md)
     - Check [cromatic aberrations.md](cromatic_aberrations.md)
-    - [Preliminary logos](preliminary%20.md)
+    - [Preliminary logos](preliminary_logos.md)
 
 ### Issues ###
 
