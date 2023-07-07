@@ -19,9 +19,9 @@
 * Summary of set up
     - Check [colophon.md](colophon.md)
 * Deployment instructions
-    - Check [logotype accesibility.md](https://bitbucket.org/imhicihu/branding/src/master/logotype_accesibility.md)
-    - Check [cromatic aberrations.md](https://bitbucket.org/imhicihu/branding/src/master/cromatic_aberrations.md)
-    - [Preliminary logos](https://bitbucket.org/imhicihu/branding/issues/5/alternative-logos)
+    - Check [logotype accesibility.md](logotype_accesibility.md)
+    - Check [cromatic aberrations.md](cromatic_aberrations.md)
+    - [Preliminary logos](preliminary%20.md)
 
 ### Issues ###
 
