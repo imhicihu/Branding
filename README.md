@@ -36,7 +36,6 @@
 ### Code of Conduct
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
-
 ### Legal ###
 * All trademarks are the property of their respective owners.
 
