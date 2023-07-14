@@ -1,14 +1,14 @@
 ## Technical requirements ##
 
 * Hardware
-      - Macbook 15"
-      - Macbook Air 11" (_not eligible for data-table-grid cleaning_)
-      - Macbook 13"
-      - 21" Dell monitor
-      - Dell notebook 15"
-      - Satechi Type-C Multiport Adapter (hub USB & Network access)
-      - _Hosting_: Consorcio Saavedra 15
-      - _Bandwidth_: Consorcio Saavedra 15
+	- Macbook 15"
+	- Macbook Air 11" (_not eligible for data-table-grid cleaning_)
+	- Macbook 13"
+	- 21" Dell monitor
+	- Dell notebook 15"
+	- Satechi Type-C Multiport Adapter (hub USB & Network access)
+	- _Hosting_: Consorcio Saavedra 15
+	- _Bandwidth_: Consorcio Saavedra 15
 * Software
      - [Atom](http://atom.io/): code editor
      - [Blender](https://blender.org): 3D editor
