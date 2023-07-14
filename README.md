@@ -1,5 +1,5 @@
 ![stability-workinprogress](images/stability-work_in_progress-lightgrey.svg)
-![internaluse-green](images/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7465726e616c2532307573652533412d737461626c652d677265656e2e737667.svg)
+![internaluse-green](images/internal_use_-stable-green.svg)
 ![issues-open](images/issues-open-green.svg)
 
 # RATIONALE #
@@ -12,7 +12,7 @@
 
 * Quick summary
     - Branding digital assets for visual identity
-      ![graphics.jpg](images/ezgif-com-gif-maker.gif)
+      ![graphics.jpg](images/roll-over.gif)
 
 ### How do I get set up? ###
 
