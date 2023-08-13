@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements 
 
 * Hardware
 	- Macbook 15"
@@ -32,6 +32,6 @@
 * Documentation
      - [Evernote](https://evernote.com)
      
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
