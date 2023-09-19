@@ -1,6 +1,7 @@
 ![stability-workinprogress](images/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](images/internal_use_-stable-green.svg)
-![issues-open](images/issues-open-green.svg)
+<BR></BR>
+![issues-open](images/repository-open-graph-template.png)
 
 # RATIONALE #
 
