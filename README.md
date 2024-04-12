@@ -1,13 +1,10 @@
-![stability-workinprogress](images/stability-work_in_progress-lightgrey.svg)
-![internaluse-green](images/internal_use_-stable-green.svg)
-<BR></BR>
-![issues-open](images/repository-open-graph-template.png)
+
+![](images/333.gif)
 
 # RATIONALE #
 
 * Internal branding gathered to apply to multiple digital strategies: mobile apps, webinars, social media etc. with a focus in accessibility.
 * This repo is a living document that will grow and adapt over time
-![graphics.jpg](images/333.gif)
 
 ### What is this repository for? ###
 
