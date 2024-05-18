@@ -1,26 +1,26 @@
-### Original
+#### Original
 ![](images/IMHICIHU-logotipos/disfunciones/Untitled.jpg)
 
-### Protanomaly
+#### Protanomaly
 ![](images/IMHICIHU-logotipos/disfunciones/Protanomaly.jpg)
 
-### Deuteranomaly
+#### Deuteranomaly
 ![](images/IMHICIHU-logotipos/disfunciones/Deuteranomaly.jpg)
 
-### Tritanomaly
+#### Tritanomaly
 ![](images/IMHICIHU-logotipos/disfunciones/Tritanomaly.jpg)
 
-### Protanopia
+#### Protanopia
 ![](images/IMHICIHU-logotipos/disfunciones/Protanopia.jpg)
 
-### Deuteranopia
+#### Deuteranopia
 ![](images/IMHICIHU-logotipos/disfunciones/Deuteranopia.jpg)
 
-### Tritanopia
+#### Tritanopia
 ![](images/IMHICIHU-logotipos/disfunciones/Tritanopia.jpg)
 
-### Achromatopsia
+#### Achromatopsia
 ![](images/IMHICIHU-logotipos/disfunciones/Achromatopsia.jpg)
 
-### Blue Cone Monochromacy
+#### Blue Cone Monochromacy
 ![](images/IMHICIHU-logotipos/disfunciones/Blue_Cone_Monochromacy.jpg)
