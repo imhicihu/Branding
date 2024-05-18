@@ -1,17 +1,17 @@
-### Original
+#### Original
 ![](images/IMHICIHU-logotipos/logotipo.jpg)
 
-### B/W
+#### B/W
 ![](images/IMHICIHU-logotipos/logo_black.jpg)
 
-### Inverted
+#### Inverted
 ![](images/IMHICIHU-logotipos/logo_inverse.jpg)
 
-### Original
+#### Original
 ![](images/IMHICIHU-logotipos/logotipo.jpg)
 
-### B/W
+#### B/W
 ![](images/IMHICIHU-logotipos/institucional/black.jpg)
 
-### Inverted
+#### Inverted
 ![](images/IMHICIHU-logotipos/inverse.jpg)
