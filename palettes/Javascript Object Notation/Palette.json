@@ -1,0 +1,75 @@
+{
+  "colors" : [
+    {
+      "hex" : "9E1C47",
+      "name" : "Fondo logotipo Temas Medievales",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 71,
+        "green" : 28,
+        "red" : 158
+      }
+    },
+    {
+      "hex" : "99999C",
+      "name" : "Azul bajada rectángulo logotipo oficial CONICET",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 156,
+        "green" : 153,
+        "red" : 153
+      }
+    },
+    {
+      "hex" : "013761",
+      "name" : "Azul bajada rectángulo logotipo oficial CONICET",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 97,
+        "green" : 55,
+        "red" : 1
+      }
+    },
+    {
+      "hex" : "4194D7",
+      "name" : "Azul logotipo CONICET",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 215,
+        "green" : 148,
+        "red" : 65
+      }
+    },
+    {
+      "hex" : "FBBF17",
+      "name" : "Sol logotipo CONICET",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 23,
+        "green" : 191,
+        "red" : 251
+      }
+    },
+    {
+      "hex" : "BCE4F8",
+      "name" : "Background Sesión Zoom",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 248,
+        "green" : 228,
+        "red" : 188
+      }
+    },
+    {
+      "hex" : "93CEEC",
+      "name" : "Formularios",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 236,
+        "green" : 206,
+        "red" : 147
+      }
+    }
+  ],
+  "name" : "Palette"
+}
