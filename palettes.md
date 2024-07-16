@@ -1,2 +1,2 @@
 #### Palettes
-![](images/Screenshot.png)
+![](images/badges/Screenshot.png)
