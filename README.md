@@ -1,5 +1,5 @@
 
-![](images/333.gif)
+![](images/badges/333.gif)
 
 # RATIONALE #
 
@@ -10,7 +10,7 @@
 
 * Quick summary
     - Branding digital assets for visual identity
-      ![graphics.jpg](images/roll-over.gif)
+      ![graphics.jpg](images/badges/roll-over.gif)
 
 ### How do I get set up? ###
 
