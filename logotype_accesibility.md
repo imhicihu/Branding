@@ -1,17 +1,17 @@
 #### Original
-![](images/IMHICIHU-logotipos/logotipo.jpg)
+![](images/version_2023/IMHICIHU-logotipos/logotipo.jpg)
 
 #### B/W
-![](images/IMHICIHU-logotipos/logo_black.jpg)
+![](images/version_2023/IMHICIHU-logotipos/logo_black.jpg)
 
 #### Inverted
-![](images/IMHICIHU-logotipos/logo_inverse.jpg)
+![](images/version_2023/IMHICIHU-logotipos/logo_inverse.jpg)
 
 #### Original
-![](images/IMHICIHU-logotipos/logotipo.jpg)
+![](images/version_2023/IMHICIHU-logotipos/logotipo.jpg)
 
 #### B/W
-![](images/IMHICIHU-logotipos/institucional/black.jpg)
+![](images/version_2023/IMHICIHU-logotipos/institucional/black.jpg)
 
 #### Inverted
-![](images/IMHICIHU-logotipos/inverse.jpg)
+![](images/version_2023/IMHICIHU-logotipos/inverse.jpg)
