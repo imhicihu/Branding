@@ -1,7 +1,7 @@
 
 ![](images/badges/333.gif)
 
-# RATIONALE #
+# RATIONALE / [Fundamento](LEEME.md)#
 
 * Internal branding gathered to apply to multiple digital strategies: mobile apps, webinars, social media etc. with a focus in accessibility.
 * This repo is a living document that will grow and adapt over time
@@ -21,6 +21,9 @@
     - Check [chromatic aberrations.md](cromatic_aberrations.md)
     - [Preliminary logos](Preliminary_logos.md)
 
+### Linked repositories
+* [Accesibilidad](https://github.com/imhicihu/Accesibilidad)
+
 ### Issues ###
 * Check them on [here](https://bitbucket.org/imhicihu/branding/issues)
 
@@ -35,7 +38,7 @@
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
 
 ### License ###
-* The content of this project itself is licensed under the MIT license.
+* The content of this project itself is licensed under the MIT license
