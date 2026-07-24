@@ -1,7 +1,7 @@
 
 ![](images/badges/333.gif)
 
-# RATIONALE / [Fundamento](LEEME.md)
+# Rationale / [Fundamento](LEEME.md)
 
 * Internal branding gathered to apply to multiple digital strategies: mobile apps, webinars, social media etc. with a focus in accessibility.
 * This repo is a living document that will grow and adapt over time
