@@ -1,18 +1,18 @@
 
 ![](images/badges/333.gif)
 
-# Rationale / [Fundamento](LEEME.md)
+## Rationale / [Fundamento](LEEME.md)
 
 * Internal branding gathered to apply to multiple digital strategies: mobile apps, webinars, social media etc. with a focus in accessibility.
 * This repo is a living document that will grow and adapt over time
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
     - Branding digital assets for visual identity
       ![graphics.jpg](images/badges/roll-over.gif)
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Summary of set up
     - Check [colophon.md](colophon.md)
@@ -24,13 +24,13 @@
 ### Linked repositories
 * [Accesibilidad](https://github.com/imhicihu/Accesibilidad)
 
-### Issues ###
+### Issues
 * Check them on [here](https://bitbucket.org/imhicihu/branding/issues)
 
-### Changelog ###
+### Changelog
 * Please check the [Commits](https://github.com/imhicihu/Branding/commits/master) section for the current status
 
-### Who do I talk to? ###
+### Who do I talk to?
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 
